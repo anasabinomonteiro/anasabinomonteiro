@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋
+<h1 align="center">Hi there 👋></h1>
   
-<p font-size= 0.5rem>🔭 I am currently working as a systems analyst, I provide support for the Totvs ERP - Protheus Line and I am familiar with the ADVPL language, which is used for Totvs programs.</p>
+<p>🔭 I am currently working as a systems analyst, I provide support for the Totvs ERP - Protheus Line and I am familiar with the ADVPL language, which is used for Totvs programs.</p>
 <p>🌱I'm studying Software Development at BYU Idaho Online, I'm finalizing the requirements for my first certificate in Web and Computer Programming.</p>
 <p>👯 I'm looking to collaborate on ADVPL projects, or in the languages ​​I've been learning such as C#, Python, SQL, among others.</p>
 <p>🤔I'm looking for help with javascript, this subject has been very challenging for me so far.</p>
