@@ -9,8 +9,6 @@
 ⚡ Fun fact: I worked in the financial/accounting area for most of my professional life, but I always loved the technology area.
 ⚡ I kind of accidentally managed to migrate to another area when I thought it was no longer possible, in 2018 and here I am in 2024 at 43 years old, learning something new every day!
 
-| Name             | Badge                                                                                                                                   |                                                                                                                                |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | 
 |Github            |![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 |Google Chrome     |![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 |CodePen           |![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
